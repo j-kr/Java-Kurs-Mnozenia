@@ -1,0 +1,10 @@
+body {
+		text-align: center;
+                margin-left: 30%;
+                margin-right: 30%;
+		/*border: solid blue 5px;*/
+		background-image: url("tlo.jpg");
+		padding: 5px;
+                font-family:Calibri, sans-serif, bold;
+		font-size:20px;
+    }  
